@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'XiaChuFang' do
+   pod 'AFNetworking', '~> 3.1.0'
+   pod 'Masonry', '~> 1.0.0'
+   pod'SDWebImage'
+end
+
