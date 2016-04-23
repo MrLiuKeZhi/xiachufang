@@ -9,7 +9,10 @@
 #import "AppDelegate.h"
 #import "HomeViewController.h"
 @interface AppDelegate ()
+{
+    NSArray*arr;
 
+}
 @end
 
 @implementation AppDelegate
